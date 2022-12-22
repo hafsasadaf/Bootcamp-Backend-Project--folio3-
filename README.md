@@ -1,21 +1,8 @@
 # Bootcamp-Backend-Project--folio3-
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/702c1e5f4821d90ed46c/maintainability)](https://codeclimate.com/github/delbetu/todo-app/maintainability)
-
 # Todo app
 
-Achieve your goals by planning with todo's lists.  
-Single page application with frontend and backend implementation which allows creation of tasks and lists of tasks, along with destroying and mark them as completed.  
-
-# Demo
-<img src="todo-tasks.gif" width="700" height="400">
-
-# Live
-Visit [https://todo--backbone.herokuapp.com/](https://todo--backbone.herokuapp.com/) to see it working.
-
-## Pre-requisites
-* Node >= 8.16.1
-* Ruby >= 2.5.7
+Achieve your goals by planning with todo's lists. Single page application with frontend and backend implementation which allows creation of tasks and lists of tasks, along with destroying and mark them as completed.  
 
 ## Build backend
 
